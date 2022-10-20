@@ -1,4 +1,4 @@
-# hello-world
+# hello-world significa alo mundo
 Repositório criado para treinamento Learning Session/-
 # Maiara Gradim Simões
 Estamos estudando sobre github a partir do tutorial disponibilizado por eles.
